@@ -41,7 +41,7 @@ const Grid = () => {
                 </h2>
                 <p className="text-white text-[23px] font-bold">
                   Explore our range of AI-driven solutions designed to enhance efficiency and drive innovation in your business.
-                  {/* Additional content can be added here */}
+                
                 </p>
               </div>
             </div>
