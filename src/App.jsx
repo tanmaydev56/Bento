@@ -23,7 +23,7 @@ export default function App() {
       {/* <Spline scene="https://prod.spline.design/oNQfDl6s3Ran6MK3/scene.splinecode" /> */}
       
 
-  {/* <Grid/> */}
+  <Grid/>
   <ParallaxScrolling/>
 
     </>
