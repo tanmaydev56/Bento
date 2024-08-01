@@ -15,6 +15,7 @@
 
 import Spline from '@splinetool/react-spline';
 import Grid from './components/Grid';
+import ParallaxScrolling from './components/paralax';
 
 export default function App() {
   return (
@@ -22,7 +23,8 @@ export default function App() {
       {/* <Spline scene="https://prod.spline.design/oNQfDl6s3Ran6MK3/scene.splinecode" /> */}
       
 
-  <Grid/>
+  {/* <Grid/> */}
+  <ParallaxScrolling/>
 
     </>
   );
